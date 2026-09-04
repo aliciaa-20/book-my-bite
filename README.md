@@ -9,7 +9,7 @@
 ## 👥 Team Details
 
 | Name | Roll Number | Department | Section |
-|---|---|---|---|---|
+|---|---|---|---|
 | **Alicia Theresa Pereira** | *2462028* | Artificial Intelligence and Data Science Engineering | 5 BTCS AIML - C |
 | **Alan Baiju K** | *2462022* | Artificial Intelligence and Data Science Engineering | 5 BTCS AIML - C |
 | **Albert John A** | *2462025* | Artificial Intelligence and Data Science Engineering | 5 BTCS AIML - C |
