@@ -240,16 +240,21 @@ npm install
 ```
 
 ### 2. Environment Configuration
-The repository includes a pre-configured `.env` file:
+Copy `.env.example` to `.env` and adjust values as needed (a local `.env` is never committed to GitHub):
+```bash
+cp .env.example .env
+```
+`.env.example` documents the required variables:
 ```env
 PORT=5000
 NODE_ENV=development
 MONGODB_URI=mongodb://localhost:27017/restaurant_db
-JWT_SECRET=super_secret_jwt_restaurant_key_2026_jwt_token
+JWT_SECRET=replace_with_a_long_random_secret
 JWT_EXPIRE=24h
 TAX_RATE=0.05
 SERVICE_CHARGE_RATE=0.05
 ```
+If no MongoDB is reachable at `MONGODB_URI`, the server automatically falls back to an in-memory MongoDB instance, so the app still runs with zero configuration.
 
 ### 3. Seed Database with Realistic Data
 Populate realistic branches, tables, rich menu dishes, sample reservations, active orders across all lifecycle states, and customer reviews:
