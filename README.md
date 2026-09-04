@@ -8,12 +8,12 @@
 
 ## 👥 Team Details
 
-| Name | Roll Number | Department | Section | Role & Modules Owned |
+| Name | Roll Number | Department | Section |
 |---|---|---|---|---|
-| **Member 1 (Lead)** | *CU-5BCA-01* | Computer Science | 5 BCA A | Sprint 1: Auth, Menu & Table Engine |
-| **Member 2** | *CU-5BCA-02* | Computer Science | 5 BCA A | Sprint 2: Order Placement, Workflow & KDS |
-| **Member 3** | *CU-5BCA-03* | Computer Science | 5 BCA A | Sprint 3: Billing, Cancellation, Feedback & Analytics |
-| **Member 4** | *CU-5BCA-04* | Computer Science | 5 BCA A | Database Architecture, Postman & Testing |
+| **Alicia Theresa Pereira** | *2462028* | Artificial Intelligence and Data Science Engineering | 5 BTCS AIML - C |
+| **Alan Baiju K** | *2462022* | Artificial Intelligence and Data Science Engineering | 5 BTCS AIML - C |
+| **Albert John A** | *2462025* | Artificial Intelligence and Data Science Engineering | 5 BTCS AIML - C |
+| ***Ahaon Sarkar** | *2462019* | Artificial Intelligence and Data Science Engineering | 5 BTCS AIML - C |
 
 ---
 
