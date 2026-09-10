@@ -232,10 +232,8 @@ erDiagram
 
 ### 1. Clone & Install Dependencies
 ```bash
-# Navigate to project directory
-cd scratch/restaurant-system
-
-# Install all dependencies
+git clone https://github.com/aliciaa-20/book-my-bite.git
+cd book-my-bite
 npm install
 ```
 
